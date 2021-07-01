@@ -13,7 +13,7 @@ _[Detailed Explanation](https://devanirudh.medium.com/automated-dashboard-with-t
 ![](/images/1.2.png)<br>
 
 
-## [IPL Stats Web-App](https://iplani.herokuapp.com)
+## [IPL Stats Web-App](https://iplani1.herokuapp.com)
 * Extracted useful data from over 150000 rows of ball-by-ball data of IPL from 2008 to 2019.
 * Plotted the extracted data and made it user-interactive.
 * Hosted it as a web-app with Heroku.
