@@ -1,4 +1,4 @@
-### Projects Overview
+### Projects
 
 ## [Covid-19 Live Dashboard](https://public.tableau.com/app/profile/devanirudh/viz/Covid-19Dashboard_16222251768430/Covid-19Country-WiseStats)
 * Pulled data from an online data source.
