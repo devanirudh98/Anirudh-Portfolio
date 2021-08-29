@@ -25,7 +25,7 @@ _[Detailed Explanation](https://devanirudh.medium.com/automated-dashboard-with-t
 ![](/images/2.2.png)<br>
 
 
-## [Real Estate Price Prediction](https://mybinder.org/v2/gh/devanirudh98/RE_Price_Prediction/776450af36bb6e598de796d31d822c536390d5af?filepath=Predict.ipynb)
+## [Real Estate Price Prediction](https://mybinder.org/v2/gh/devanirudh98/RE_Price_Prediction/main?filepath=Predict.ipynb)
 * Filtered data down to most correlated variables while avoiding collinearity.
 * Deployed Multiple Linear Regression with selected features to train the model.
 * Took input from user to predict the price using the model.
